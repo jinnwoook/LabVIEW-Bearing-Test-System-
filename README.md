@@ -9,11 +9,7 @@ cDAQ 기반 실시간 다채널 데이터 수집 및 이상 감지 자동화 시
 ## 🖥️ LabVIEW 메인 화면
 
 <div align="center">
-  <img src="images/labview_main.png" alt="LabVIEW 베어링 내구 시험 메인 화면" width="900">
-</div>
-
-<div align="center">
-  <img src="images/labview_detail.png" alt="LabVIEW 상세 화면" width="900">
+  <img src="images/labview_detail.png" alt="LabVIEW 베어링 내구 시험 메인 화면" width="900">
 </div>
 
 ---
